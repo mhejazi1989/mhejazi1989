@@ -1,11 +1,9 @@
 👋 Hi, I’m Mona Hejazi (@mhejazi1989)
 
-🔬 Expertise: Biomedical Engineering | EEG & TMS Research | Brain-Computer Interfaces
+🔬 Expertise: Project Management | Biomedical & Computer Engineering | Innovation and Health Research | Medical Services
 
-🌱 Currently learning: Advanced Python data analysis and machine learning for neural signals
+🌱 Currently learning: Advanced Python data analysis and machine learning for medical data 
 
-💞️ Open to collaboration: Projects in EEG signal processing, BCI development, or neuroengineering research
-
-📫 Contact: mhejazi@mun.ca
+📫 Contact: bme.hejazi@gmail.com
 
 ⚡ Interests: Persian dance, hiking, climbing, biking, and exploring nature
